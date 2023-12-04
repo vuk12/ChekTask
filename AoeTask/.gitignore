@@ -1,0 +1,9 @@
+
+# IntelliJ project files
+.idea
+.allure
+*.iml
+out
+gen
+target
+logs
